@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<products>
+    <product>
+        <id>251647</id>
+        <manufacturer>TOYO</manufacturer>
+        <name>MARSHAL 857 195/75R16C 107R 8PR</name>
+        <additional_info>DOT 2011</additional_info>
+        <price>51.25</price>
+        <availability>17</availability>
+        <product_image>http://media2.tyre24.de/images/tyre/857-R-w300-h300-br1.jpg</product_image>
+    </product>
+    <product>
+        <id>154761</id>
+        <manufacturer>NEXEN</manufacturer>
+        <name>ROCKSTON 109    185/70 R13 86 T</name>
+        <additional_info></additional_info>
+        <price>30.99</price>
+        <availability>54</availability>
+        <product_image>http://media2.tyre24.de/images/tyre/109-R-w300-h300-br1.jpg</product_image>
+    </product>
+</products>
